@@ -1,0 +1,6 @@
+[22-May-2021 04:30:42 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where order_id=1 AND seller='0xf43a020356d7463042150d4a67356761b71bd470' AND ...' at line 1 in /home/boresshb/cryptolambo.net/cron/ordersEventsCron.php:84
+Stack trace:
+#0 /home/boresshb/cryptolambo.net/cron/ordersEventsCron.php(84): PDO->exec('UPDATE orders s...')
+#1 /home/boresshb/cryptolambo.net/cron/ordersEventsCron.php(92): fetchData(Object(PDO), '7624983')
+#2 {main}
+  thrown in /home/boresshb/cryptolambo.net/cron/ordersEventsCron.php on line 84

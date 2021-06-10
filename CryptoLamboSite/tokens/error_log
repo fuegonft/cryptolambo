@@ -1,0 +1,28 @@
+[21-May-2021 14:12:18 America/New_York] PHP Warning:  include(../cron/web3/vendor/autoload.php): failed to open stream: No such file or directory in /home/boresshb/cryptolambo.net/tokens/index.php on line 3
+[21-May-2021 14:12:18 America/New_York] PHP Warning:  include(../cron/web3/vendor/autoload.php): failed to open stream: No such file or directory in /home/boresshb/cryptolambo.net/tokens/index.php on line 3
+[21-May-2021 14:12:18 America/New_York] PHP Warning:  include(): Failed opening '../cron/web3/vendor/autoload.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/boresshb/cryptolambo.net/tokens/index.php on line 3
+[21-May-2021 14:12:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Web3\Web3' not found in /home/boresshb/cryptolambo.net/tokens/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/boresshb/cryptolambo.net/tokens/index.php on line 11
+[21-May-2021 14:12:21 America/New_York] PHP Warning:  include(../cron/web3/vendor/autoload.php): failed to open stream: No such file or directory in /home/boresshb/cryptolambo.net/tokens/index.php on line 3
+[21-May-2021 14:12:21 America/New_York] PHP Warning:  include(../cron/web3/vendor/autoload.php): failed to open stream: No such file or directory in /home/boresshb/cryptolambo.net/tokens/index.php on line 3
+[21-May-2021 14:12:21 America/New_York] PHP Warning:  include(): Failed opening '../cron/web3/vendor/autoload.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/boresshb/cryptolambo.net/tokens/index.php on line 3
+[21-May-2021 14:12:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Web3\Web3' not found in /home/boresshb/cryptolambo.net/tokens/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/boresshb/cryptolambo.net/tokens/index.php on line 11
+[21-May-2021 14:12:41 America/New_York] PHP Warning:  include(../cron/web3/vendor/autoload.php): failed to open stream: No such file or directory in /home/boresshb/cryptolambo.net/tokens/index.php on line 3
+[21-May-2021 14:12:41 America/New_York] PHP Warning:  include(../cron/web3/vendor/autoload.php): failed to open stream: No such file or directory in /home/boresshb/cryptolambo.net/tokens/index.php on line 3
+[21-May-2021 14:12:41 America/New_York] PHP Warning:  include(): Failed opening '../cron/web3/vendor/autoload.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/boresshb/cryptolambo.net/tokens/index.php on line 3
+[21-May-2021 14:12:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Web3\Web3' not found in /home/boresshb/cryptolambo.net/tokens/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/boresshb/cryptolambo.net/tokens/index.php on line 11
+[21-May-2021 14:12:43 America/New_York] PHP Warning:  include(../cron/web3/vendor/autoload.php): failed to open stream: No such file or directory in /home/boresshb/cryptolambo.net/tokens/index.php on line 3
+[21-May-2021 14:12:43 America/New_York] PHP Warning:  include(../cron/web3/vendor/autoload.php): failed to open stream: No such file or directory in /home/boresshb/cryptolambo.net/tokens/index.php on line 3
+[21-May-2021 14:12:43 America/New_York] PHP Warning:  include(): Failed opening '../cron/web3/vendor/autoload.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/boresshb/cryptolambo.net/tokens/index.php on line 3
+[21-May-2021 14:12:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Web3\Web3' not found in /home/boresshb/cryptolambo.net/tokens/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/boresshb/cryptolambo.net/tokens/index.php on line 11
